@@ -1,4 +1,4 @@
-# Project 3: Reddit Web API & Classification
+# Reddit Web API & Classification
 
 ## Background Information
 
